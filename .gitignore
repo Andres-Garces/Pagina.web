@@ -4,4 +4,3 @@ venv/
 instance/
 .pytest_cache/
 .env
-database.db
